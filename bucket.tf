@@ -4,7 +4,7 @@ project = var.project_id
 region  = var.region
 zone =var.zone
 #version ="~> 3.23"
-credentials = file("./creds/serviceaccount.json")
+credentials = ./creds/serviceaccount.json"
 }
 # Create a GCS Bucket
 
