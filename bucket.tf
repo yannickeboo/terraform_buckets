@@ -4,7 +4,7 @@ project = var.project_id
 region  = var.region
 zone =var.zone
 #version ="~> 3.23"
-credentials = file("algebraic-pact-317221-5f6059d769ff.json")
+credentials = file("main-aspect-341416-dff3a9baea19.json")
 }
 # Create a GCS Bucket
 

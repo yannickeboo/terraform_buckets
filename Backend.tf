@@ -5,6 +5,6 @@ terraform {
   backend "gcs" {
     bucket = "anael-premier"                     # put the name of the bucket
     prefix = "anael-premier/statefile"     # put the path to the gcp storage that you have created.
-    credentials = "algebraic-pact-317221-5f6059d769ff.json"
+    credentials = "main-aspect-341416-dff3a9baea19.json"
   }
 }
