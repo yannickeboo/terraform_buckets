@@ -4,7 +4,7 @@ project = var.project_id
 region  = var.region
 zone =var.zone
 #version ="~> 3.23"
-credentials = file("var/jenkins_home/main-aspect-341416-dff3a9baea19.json")
+credentials = file("main-aspect-341416-dff3a9baea19.json")
 }
 # Create a GCS Bucket
 
